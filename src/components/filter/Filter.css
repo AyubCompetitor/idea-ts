@@ -1,0 +1,15 @@
+.filters-wrapper{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    justify-content: start;
+    padding: 20px 0;
+    font-display: column;
+    background-color: white;
+    height: 340px;
+    border-radius: 5px;
+    box-shadow: 0px 1px 8px rgba(89, 87, 87, 0.587);
+    box-sizing: border-box;
+    padding: 20px;
+  
+  }
